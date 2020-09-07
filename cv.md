@@ -8,6 +8,7 @@
 * JS
 * Git
 ## Education
+* learn.javascript.ru
 * CS50
 * Udemy
 * HTML Academy
